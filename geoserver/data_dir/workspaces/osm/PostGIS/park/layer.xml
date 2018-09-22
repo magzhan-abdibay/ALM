@@ -1,0 +1,17 @@
+<layer>
+  <name>park</name>
+  <id>LayerInfoImpl--21537b31:1638687c127:-7cc6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21537b31:1638687c127:-5cb2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--21537b31:1638687c127:-7cc7</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

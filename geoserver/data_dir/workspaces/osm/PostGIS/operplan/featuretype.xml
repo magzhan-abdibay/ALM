@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--50e31226:163ca197ca7:-6c51</id>
+  <name>operplan</name>
+  <nativeName>operplan</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--570ae188:124761b8d78:-7ff4</id>
+  </namespace>
+  <title>operplan</title>
+  <keywords>
+    <string>features</string>
+    <string>operplan</string>
+  </keywords>
+  <srs>EPSG:404000</srs>
+  <nativeBoundingBox>
+    <minx>-1.0</minx>
+    <maxx>0.0</maxx>
+    <miny>-1.0</miny>
+    <maxy>0.0</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-1.0</minx>
+    <maxx>0.0</maxx>
+    <miny>-1.0</miny>
+    <maxy>0.0</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="JDBC_VIRTUAL_TABLE">
+      <virtualTable>
+        <name>operplan</name>
+        <sql>SELECT operplan.description&#xd;
+FROM building&#xd;
+ INNER JOIN operplan ON (building.operplanid = operplan.id)&#xd;
+&#xd;
+WHERE st_contains(way, ST_GeomFromText(&apos;POINT(%long% %lat%)&apos;,900913))
+</sql>
+        <escapeSql>false</escapeSql>
+        <parameter>
+          <name>long</name>
+          <defaultValue>0</defaultValue>
+          <regexpValidator>^[\d\.]+$</regexpValidator>
+        </parameter>
+        <parameter>
+          <name>lat</name>
+          <defaultValue>0</defaultValue>
+          <regexpValidator>^[\d\.]+$</regexpValidator>
+        </parameter>
+      </virtualTable>
+    </entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7ac0c836:1635cb5dffc:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

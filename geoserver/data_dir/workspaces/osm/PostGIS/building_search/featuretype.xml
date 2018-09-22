@@ -1,0 +1,58 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-2621854:1643534bcbc:-7ffe</id>
+  <name>building_search</name>
+  <nativeName>building_search</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--570ae188:124761b8d78:-7ff4</id>
+  </namespace>
+  <title>building_search</title>
+  <keywords>
+    <string>features</string>
+    <string>building_search</string>
+  </keywords>
+  <srs>EPSG:404000</srs>
+  <nativeBoundingBox>
+    <minx>5190332.5</minx>
+    <maxx>9707253.0</maxx>
+    <miny>4963869.0</miny>
+    <maxy>7422280.5</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>46.62555014412286</minx>
+    <maxx>87.20173736715077</maxx>
+    <miny>40.6705524521951</miny>
+    <maxy>55.31008057623344</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="JDBC_VIRTUAL_TABLE">
+      <virtualTable>
+        <name>building_search</name>
+        <sql>SELECT * FROM building&#xd;
+WHERE  to_tsvector(&apos;simple&apos;, concat_ws(&apos; &apos;, &quot;addr:housenumber&quot;,&quot;addr:housename&quot;,&quot;amenity&quot;))&#xd;
+    @@ plainto_tsquery(&apos;simple&apos;, &apos;%word%&apos;)
+</sql>
+        <escapeSql>false</escapeSql>
+        <geometry>
+          <name>way</name>
+          <type>Geometry</type>
+          <srid>-1</srid>
+        </geometry>
+        <parameter>
+          <name>word</name>
+          <regexpValidator>^.+$</regexpValidator>
+        </parameter>
+      </virtualTable>
+    </entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7ac0c836:1635cb5dffc:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

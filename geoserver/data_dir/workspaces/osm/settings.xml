@@ -1,0 +1,33 @@
+<settings>
+  <id>SettingsInfoImpl--2afa1a4e:163de93eb83:-7fff</id>
+  <workspace>
+    <id>WorkspaceInfoImpl--570ae188:124761b8d78:-7ff3</id>
+    <name>osm</name>
+    <isolated>false</isolated>
+  </workspace>
+  <contact>
+    <id>contact</id>
+    <addressCity>Almaty</addressCity>
+    <addressCountry>Kazakhstan</addressCountry>
+    <addressState>KZ</addressState>
+    <addressType>Work</addressType>
+    <contactEmail>konstantin.starikov@innoforce.kz</contactEmail>
+    <contactOrganization>Innoforce CA</contactOrganization>
+    <contactPerson>Константин Стариков</contactPerson>
+    <contactPosition>Project Manager</contactPosition>
+  </contact>
+  <charset>UTF-8</charset>
+  <numDecimals>8</numDecimals>
+  <onlineResource>http://geoserver.org</onlineResource>
+  <verbose>false</verbose>
+  <verboseExceptions>false</verboseExceptions>
+  <metadata>
+    <map>
+      <entry>
+        <string>quietOnNotFound</string>
+        <boolean>false</boolean>
+      </entry>
+    </map>
+  </metadata>
+  <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
+</settings>

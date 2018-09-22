@@ -1,0 +1,17 @@
+<layer>
+  <name>beach</name>
+  <id>LayerInfoImpl--21537b31:1638687c127:-7cd0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21537b31:1638687c127:-5cb9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--21537b31:1638687c127:-7cd1</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,15 @@
+<layer>
+  <name>route_fill</name>
+  <id>LayerInfoImpl--772865a:163d97cb110:-7ff7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21537b31:1638687c127:-5caa</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--772865a:163d97cb110:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

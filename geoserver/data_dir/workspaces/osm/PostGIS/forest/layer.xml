@@ -1,0 +1,17 @@
+<layer>
+  <name>forest</name>
+  <id>LayerInfoImpl--21537b31:1638687c127:-7ccc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21537b31:1638687c127:-5cb7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--21537b31:1638687c127:-7ccd</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

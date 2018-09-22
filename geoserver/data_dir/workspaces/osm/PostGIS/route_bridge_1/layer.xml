@@ -1,0 +1,15 @@
+<layer>
+  <name>route_bridge_1</name>
+  <id>LayerInfoImpl--2afa1a4e:163de93eb83:-7ff8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21537b31:1638687c127:-5caf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2afa1a4e:163de93eb83:-7ff9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

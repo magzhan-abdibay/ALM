@@ -1,0 +1,138 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--21537b31:1638687c127:-5ca4</id>
+  <name>layergroup</name>
+  <mode>SINGLE</mode>
+  <title>layergroup</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--570ae188:124761b8d78:-7ff3</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--21537b31:1638687c127:-7cd4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21537b31:1638687c127:-7cd0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21537b31:1638687c127:-7ccc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21537b31:1638687c127:-7cca</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--772865a:163d97cb110:-7fef</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21537b31:1638687c127:-7ca8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21537b31:1638687c127:-7cc6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--772865a:163d97cb110:-7ffd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--772865a:163d97cb110:-7ff9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--772865a:163d97cb110:-7ffb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21537b31:1638687c127:-7cce</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2afa1a4e:163de93eb83:-7ff4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2afa1a4e:163de93eb83:-7ffa</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2afa1a4e:163de93eb83:-7ff8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2afa1a4e:163de93eb83:-7ff6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--772865a:163d97cb110:-7ff5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--772865a:163d97cb110:-7ff7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--772865a:163d97cb110:-7ff1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2afa1a4e:163de93eb83:-7ffc</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cbb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5ca6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5ca5</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cbc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cba</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb8</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5ca8</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5caf</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cae</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5ca9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5caa</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21537b31:1638687c127:-5cb5</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>8542465.97</minx>
+    <maxx>8587966.28</maxx>
+    <miny>5316972.34</miny>
+    <maxy>5373620.06</maxy>
+    <crs class="projected">EPSG:900913</crs>
+  </bounds>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layerGroup>
